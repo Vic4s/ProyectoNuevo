@@ -1,0 +1,8 @@
+# Ignorar todos los archivos .log
+*.log
+
+# Ignorar un directorio específico, por ejemplo el de recursos de imagenes
+/src/imagenes
+
+# Ignorar un archivo específico
+mi_archivo.txt
